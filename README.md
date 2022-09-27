@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaozinMr
 - 👀 I’m interested in App Development;
-- 🌱 I’m currently learning C#;
+- 🌱 I’m currently learning ReactJS, NodeJS;
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me Twitter: @JoaooBiladeiro, E-mail: joao.florv2005@gmail.com, Discord: JoaozinhoMr#0652
 
