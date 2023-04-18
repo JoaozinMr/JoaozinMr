@@ -27,4 +27,9 @@
   <a href="https://wa.me/5531971045343" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5531971045343"/></a>
 
-</p>  
+</p> 
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaozinMr&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaozinMr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
