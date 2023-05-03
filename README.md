@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#, JavaScript, PHP, HTML, CSS, MySql.</strong>
+  🦄 Linguagens: <strong>C#, JavaScript, TypeScript, PHP, HTML, CSS, MySql.</strong>
 </p>
 
 <p align="left">
