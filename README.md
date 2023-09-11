@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá sou o João Gabriel - <strong>Dev Back-End</strong>.<br>
+  Olá sou o João Gabriel - <strong>Dev FullStack</strong>.<br>
   Atualmente, cursando Ensino Médio Técnico no Colégio Cotemig.
 </p>
 
