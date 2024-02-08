@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá sou o João Gabriel - <strong>Dev FullStack</strong>.<br>
-  Atualmente, cursando Ensino Médio Técnico no Colégio Cotemig.
+  Atualmente, cursando Ciências da Computação na Faculdade Cotemig.
 </p>
 
 <p align="left">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Frameworks/Bibliotecas: <strong>TAILWINDCSS, Bootstrap, .NET, NodeJs, ReactJS.</strong>
+  💼 Frameworks/Bibliotecas: <strong>TAILWINDCSS, Bootstrap, .NET, NodeJs, ReactJS, NextJs.</strong>
 </p>
 
 <p align="left">
