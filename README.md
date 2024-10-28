@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#, JavaScript, TypeScript, PHP, HTML, CSS, MySql.</strong>
+  🦄 Linguagens: <strong>C#, JavaScript, TypeScript, PHP, Ruby, MySql, PGSQL.</strong>
 </p>
 
 <p align="left">
-  💼 Frameworks/Bibliotecas: <strong>TAILWINDCSS, Bootstrap, .NET, NodeJs, ReactJS, NextJs.</strong>
+  💼 Frameworks/Bibliotecas: <strong>TAILWINDCSS, .NET, NodeJs, ReactJS, NextJs, CakePHP, Laravel.</strong>
 </p>
 
 <p align="left">
-  💌 Vamos conectar: ⤵️
+  💌 Links: ⤵️
 </p>
 
 <p align="left">
