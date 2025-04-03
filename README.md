@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#, JavaScript, TypeScript, PHP, Ruby, MySql, PGSQL.</strong>
+  💻 Linguagens: <strong>C#, JavaScript, TypeScript, PHP, Ruby, MySql, PGSQL.</strong>
 </p>
 
 <p align="left">
