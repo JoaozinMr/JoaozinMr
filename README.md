@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Frameworks/Bibliotecas: <strong>TAILWINDCSS, .NET, NodeJs, ReactJS, NextJs, CakePHP, Laravel.</strong>
+  💼 Frameworks/Bibliotecas: <strong>.NET, NodeJs, ReactJS, NextJs, CakePHP, Laravel, RubyOnRails.</strong>
 </p>
 
 <p align="left">
